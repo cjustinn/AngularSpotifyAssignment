@@ -1,10 +1,14 @@
 /*********************************************************************************
-* WEB422 – Assignment 05
+* WEB422 – Assignment 06
 * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
 * assignment has been copied manually or electronically from any other source (including web sites) or
 * distributed to other students.
 *
-* Name: Justin Mercer       Student ID: 113545180       Date: March 26th, 2021
+* Name: Justin Mercer     Student ID: 113545180     Date: April 10th, 2021
+*
+* Online Link to Music App: https://jmercer6-web422-a6.netlify.app/
+*
+* Online Link to User Api: https://jmercer6-a6api.herokuapp.com/
 *
 ********************************************************************************/
 
